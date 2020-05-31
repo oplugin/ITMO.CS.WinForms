@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Samples.WindowsForms.Exc.1", "ITMO.Samples.WindowsForms.Exc.1\ITMO.Samples.WindowsForms.Exc.1.csproj", "{05F874EA-DF11-47A6-AFAF-9CBE07EBC720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.2020.124.4.WindowsForms.Lab.Exc.1", "ITMO.Samples.WindowsForms.Exc.1\ITMO.2020.124.4.WindowsForms.Lab.Exc.1.csproj", "{05F874EA-DF11-47A6-AFAF-9CBE07EBC720}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Samples.WindowsForms.Exc.2", "ITMO.Samples.WindowsForms.Exc.2\ITMO.Samples.WindowsForms.Exc.2.csproj", "{05A5D11D-51C1-4BB7-8741-8CF023FE363D}"
 EndProject
