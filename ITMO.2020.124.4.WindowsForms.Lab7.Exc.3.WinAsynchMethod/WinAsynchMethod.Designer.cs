@@ -1,6 +1,6 @@
 ﻿namespace ITMO._2020._124._4.WindowsForms.Lab7.Exc._3.WinAsynchMethod
 {
-    partial class Form1
+    partial class WinAsynchMethod
     {
         /// <summary>
         /// Required designer variable.

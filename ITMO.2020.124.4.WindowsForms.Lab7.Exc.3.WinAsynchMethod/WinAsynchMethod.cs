@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ITMO._2020._124._4.WindowsForms.Lab7.Exc._3.WinAsynchMethod
 {
-    public partial class Form1 : Form
+    public partial class WinAsynchMethod : Form
     {
         private void CallBackMethod(IAsyncResult ar)
         {
@@ -29,7 +29,7 @@ namespace ITMO._2020._124._4.WindowsForms.Lab7.Exc._3.WinAsynchMethod
             return a + b;
         }
 
-            public Form1()
+            public WinAsynchMethod()
         {
             InitializeComponent();
         }

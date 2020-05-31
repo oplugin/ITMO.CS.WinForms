@@ -16,7 +16,7 @@ namespace ITMO._2020._124._4.WindowsForms.Lab7.Exc._3.WinAsynchMethod
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new WinAsynchMethod());
         }
     }
 }
